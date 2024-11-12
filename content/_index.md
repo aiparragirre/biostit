@@ -15,10 +15,8 @@ sections:
       text: |
         <br>
         
-        The overall objectives of this group are basically transversal: to give methodological support in biostatistics to other research groups in the fields of biomedicine or experimental sciences; to promote the transfer of the research done at the university in biostatistics to biomedical and experimental fields; to take advantage of the strong demand for support in biostatistics to detect future research in this area, that respond to real problems in other fields.
+        The overall objectives of this group are to give methodological support in biostatistics to other research groups in the fields of biomedicine or experimental sciences, to promote the transfer of the research done at the university in biostatistics to biomedical and experimental fields, to take advantage of the strong demand for support in biostatistics to detect future research in this area, that respond to real problems in other fields.
 
-
-More specific objectives are to detect problems of scientific interest in the biomedical and experimental fields where biostatistics can contribute to their resolution; conduct our own rearch in biostatistics aimed at generating results for solving the problems; create necessary computer tools and software for its implementation; and apply the proposed methods to the considered problems, helping to interpret the results and draw final conclusions, in collaboration with biomedical and experimental researchers involved.
   
   - block: collection
     content:
