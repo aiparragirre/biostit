@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: lines
+  - block: hero
     content:
       title: Research Lines
       text: |-
