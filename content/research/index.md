@@ -15,7 +15,5 @@ sections:
     - Alternatives for statistical modeling of patient-perceived outcomes and applications.
     - Development, implementation and validation of loss-to-follow-up treatment methods in longitudinal studies.
     - Development of predictive models and creation of technological tools for use in clinical practice.
-    - Development and validation of questionnaires aimed at measuring patient-perceived outcomes.
-
-      
+    - Development and validation of questionnaires aimed at measuring patient-perceived outcomes.      
 ---
