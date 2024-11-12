@@ -15,8 +15,7 @@ sections:
       text: |
         <br>
         
-        The overall objectives of this group are to give methodological support in biostatistics to other research groups in the fields of biomedicine or experimental sciences, to promote the transfer of the research done at the university in biostatistics to biomedical and experimental fields, to take advantage of the strong demand for support in biostatistics to detect future research in this area, that respond to real problems in other fields.
-
+        Research Group in Biostatistics. 
   
   - block: collection
     content:
