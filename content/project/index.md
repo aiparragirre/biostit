@@ -21,5 +21,18 @@ sections:
     
     design:
       columns: 1
+
+    - block: collection
+      content:
+        title: Software
+        subtitle: R packages and apps<br>
+        text: The list of R-packages developed by team members:
+        filters:
+          folders:
+            - software
+      design:
+        view: article-grid
+        fill_image: false
+        columns: 2
 ---
 
