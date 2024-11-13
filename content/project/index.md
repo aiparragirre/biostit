@@ -27,7 +27,11 @@ sections:
       title: Software
       subtitle: R packages and apps
       text: blablabla
-    
+      filters:
+        folders:
+          - software
+    design:
+      columns: 1
       
 
 
