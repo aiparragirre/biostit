@@ -12,11 +12,14 @@ sections:
             <br>
             Specific lines of research:<br>
 
-            - blablabla
+            - Alternatives for statistical modeling of patient-reported outcomes and applications.
     
-            - blablabla
+            - Development, implementation and validation of follow-up loss treatment methods in longitudinal studies.
     
-            - blablabla
+            - Development of predictive models and creation of technological tools for use in clinical practice.
+
+            - Development and validation of questionnaires aimed at measuring patient-reported outcomes.
+    
     design:
       columns: 1
 ---
