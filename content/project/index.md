@@ -31,7 +31,7 @@ sections:
         folders:
           - software
     design:
-      view: article-grid
+      view: citation
       columns: 1
       
 
