@@ -29,7 +29,7 @@ sections:
       text: blablabla
       filters:
         folders:
-          - software
+          - project
     design:
       columns: 1
       
