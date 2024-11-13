@@ -22,6 +22,14 @@ sections:
     design:
       columns: 1
 
+  - block: markdown
+    content:
+      title: Software
+      subtitle: R packages and apps
+      text: blablabla
+    
+      
+
 
 ---
 
