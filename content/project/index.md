@@ -29,7 +29,7 @@ sections:
       text: blablabla
       filters:
         folders:
-          - software/svyROC
+          - software
     design:
       view: article-grid
       columns: 1
