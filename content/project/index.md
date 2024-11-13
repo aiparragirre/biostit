@@ -26,7 +26,7 @@ sections:
       content:
         title: Software
         subtitle: R packages and apps<br>
-        text: The list of R-packages developed by team members:
+        text: The list of R-packages developed by team members
         filters:
           folders:
             - software
