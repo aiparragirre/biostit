@@ -8,7 +8,8 @@ sections:
   - block: markdown
     content:
       title: Software
-      text: R packages and apps:<br>
+      subtitle: R packages and apps:<br>
+      text: The list of R-packages developed by team members:<br>
             
             - [svyVarSel](https://cran.r-project.org/web/packages/svyVarSel/index.html)
     
