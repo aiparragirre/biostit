@@ -22,13 +22,6 @@ sections:
     design:
       columns: 1
 
-- block: markdown
-    content:
-      title: Software
-      subtitle: R packages and apps
-      text: The list of R-packages developed by team members
-      
-    design:
-      columns: 1
+
 ---
 
