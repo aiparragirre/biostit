@@ -13,7 +13,9 @@ sections:
             Specific lines of research
 
             - blablabla
+    
             - blablabla
+    
             - blablabla
     design:
       columns: 1
