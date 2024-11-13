@@ -29,8 +29,9 @@ sections:
       text: blablabla
       filters:
         folders:
-          - software
+          - software/svyROC
     design:
+      view: article-grid
       columns: 1
       
 
