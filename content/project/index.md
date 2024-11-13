@@ -22,7 +22,7 @@ sections:
     design:
       columns: 1
 
-    - block: collection
+    - block: markdown
       content:
         title: Software
         subtitle: R packages and apps<br>
@@ -31,8 +31,6 @@ sections:
           folders:
             - software
       design:
-        view: article-grid
-        fill_image: false
-        columns: 2
+        columns: 1
 ---
 
