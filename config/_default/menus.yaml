@@ -22,9 +22,12 @@ main:
   - name: Projects
     url: project
     weight: 60
+  - name: Thesis
+    url: thesis
+    weight: 70
   - name: Events
     url: event
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
