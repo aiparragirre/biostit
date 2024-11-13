@@ -22,14 +22,14 @@ sections:
     design:
       columns: 1
 
-  - block: markdown
+  - block: collection
     content:
       title: Software
       subtitle: R packages and apps
       text: blablabla
       filters:
         folders:
-          - project
+          - software
     design:
       columns: 1
       
