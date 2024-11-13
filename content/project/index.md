@@ -22,15 +22,15 @@ sections:
     design:
       columns: 1
 
-    - block: markdown
-      content:
-        title: Software
-        subtitle: R packages and apps<br>
-        text: The list of R-packages developed by team members
-        filters:
-          folders:
-            - software
-      design:
-        columns: 1
+- block: markdown
+    content:
+      title: Software
+      subtitle: R packages and apps
+      text: The list of R-packages developed by team members
+      filters:
+        folders:
+          - software
+    design:
+      columns: 1
 ---
 
