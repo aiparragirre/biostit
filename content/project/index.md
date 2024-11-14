@@ -16,7 +16,7 @@ sections:
     content:
       title: Collaborations
       subtitle: Researchers
-      text: Researchers with which Biostit Research Group have collaborations <br>    
+      text: Researchers with which Biostit Research Group has collaborations <br>    
     design:
       columns: 1
     
@@ -24,7 +24,8 @@ sections:
       content:
         title: Collaborations
         subtitle: Institutions
-        text: Institutions with which Biostit Research Group have collaborations <br>    
+        text: Institutions with which Biostit Research Group has collaborations <br>    
       design:
         columns: 1
+    
 ---
