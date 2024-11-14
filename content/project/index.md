@@ -29,10 +29,10 @@ sections:
       text: blablabla
       filters:
         folders:
-          - software
+          - /#software
     design:
-      view: citation
-      columns: 1
+      view: article-grid
+      columns: 2
       
 
 
