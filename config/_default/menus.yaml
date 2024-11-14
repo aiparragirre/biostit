@@ -25,9 +25,12 @@ main:
   - name: Thesis
     url: thesis
     weight: 70
+  - name: Proyects and Collaborations
+    url: proyect
+    weight: 80
   - name: Events
     url: event
-    weight: 80
+    weight: 90
   - name: Contact
     url: contact
-    weight: 90
+    weight: 100
