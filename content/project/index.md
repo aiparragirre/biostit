@@ -12,20 +12,6 @@ sections:
     design:
       columns: 1
 
-  - block: markdown
-    content:
-      title: Collaborations
-      subtitle: Researchers
-      text: Researchers with which Biostit Research Group has collaborations <br>    
-    design:
-      columns: 1
-    
-  - block: markdown
-      content:
-        title: Collaborations
-        subtitle: Institutions
-        text: Institutions with which Biostit Research Group has collaborations <br>    
-      design:
-        columns: 1
+  
     
 ---
