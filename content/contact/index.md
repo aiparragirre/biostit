@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: arbela.png
+          filename: team.png
           filters:
             brightness: 1
           parallax: false
