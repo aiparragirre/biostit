@@ -29,7 +29,7 @@ sections:
       text: blablabla
       filters:
         folders:
-          - /#software
+          - software
     design:
       view: article-grid
       columns: 2
