@@ -11,7 +11,7 @@ sections:
       subtitle: Defended PhD Thesis
       text: |
 
-            - [**Amaia Iparragirre Letamendia**](./author/amaia-iparragirre/) (2024) <br>
+            - [**Amaia Iparragirre Letamendia**](https://aiparragirre.github.io/biostit/author/amaia-iparragirre/) (2024) <br>
               [*Development and validation of prediction models for complex sampling data*](https://addi.ehu.es/handle/10810/68630) <br>
               Advisors: Irantzu Barrio Beraza and Inmaculada Arostegui Madariaga
               {{% cta cta_link="https://addi.ehu.es/bitstream/handle/10810/68630/TESIS_IPARRAGIRRE_LETAMENDI_AMAIA.pdf?sequence=1&isAllowed=y" cta_text="Download thesis" %}}
