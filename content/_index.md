@@ -11,7 +11,7 @@ sections:
         Biostit
         Research Group
       image:
-        filename: arbela.png
+        filename: welcome.jpg
       text: |
         <br>
         
@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: arbela.png
           filters:
             brightness: 1
           parallax: false
