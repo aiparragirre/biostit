@@ -11,7 +11,7 @@ sections:
         Biostit
         Research Group
       image:
-        filename: welcome.jpg
+        filename: arbela.png
       text: |
         <br>
         
