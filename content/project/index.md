@@ -19,6 +19,7 @@ sections:
       text: Researchers with which Biostit Research Group have collaborations <br>    
     design:
       columns: 1
+    
   - block: markdown
       content:
         title: Collaborations
