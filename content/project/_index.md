@@ -11,3 +11,5 @@ banner:
 ---
 
 These are the R packages developed by team members.
+
+<-!more->
