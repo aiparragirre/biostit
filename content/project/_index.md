@@ -10,6 +10,6 @@ banner:
   image: ''
 ---
 
-These are the R packages developed by team members.
+These are the R packages developed by team members.<br><br>
 
-<-!more->
+
