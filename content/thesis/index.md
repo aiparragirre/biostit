@@ -21,26 +21,26 @@ sections:
       columns: 1
 
 
-    - block: markdown
+  - block: markdown
     content:
       title: PhD
       subtitle: On course PhD Thesis
       text: |
 
             - Cristina Galán <br>
-              Hemen izenburua joango litzateke
-              Advisors: Josu Nájera Zuloaga and Dae-Jin Lee
-              Expecting: 2025
+              Hemen izenburua joango litzateke <br>
+              Advisors: Josu Nájera Zuloaga and Dae-Jin Lee <br>
+              Expecting: 2025 <br>
       
             - Lander Rodríguez <br>
-              Hemen izenburua joango litzateke
-              Advisors: Irantzu Barrio Beraza and José María Quintana López
-              Expecting: 2025
+              Hemen izenburua joango litzateke <br>
+              Advisors: Irantzu Barrio Beraza and José María Quintana López <br>
+              Expecting: 2025 <br>
       
             - Leire Garmendia Berges <br>
-              Hemen izenburua joango litzateke
-              Advisors: Irantzu Barrio Beraza and Guadalupe Gómez Melis
-              Expecting: 2027              
+              Hemen izenburua joango litzateke <br>
+              Advisors: Irantzu Barrio Beraza and Guadalupe Gómez Melis <br>
+              Expecting: 2027    <br>           
     
     design:
       columns: 1
