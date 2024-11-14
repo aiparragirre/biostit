@@ -2,7 +2,7 @@
 title: Software
 
 # Listing view
-view: compact
+view: article-grid
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
